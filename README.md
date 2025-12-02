@@ -31,7 +31,7 @@ Part ayırmak isterseniz:
 
 - Lütfen günün çözümlerini gün bitmeden önce göndermeyin. İlgili gün tamamlandıktan sonra çözümlerinizi istediğiniz zaman yollayabilirsiniz.
 
-- Tartışmalar için [Discussions](https://github.com/Bilgisayar-Kavramlari-Toplulugu/advent-of-code-2025/discussions) kullanabilirsiniz. Her güne ait bir tartışma başlığı açılacaktır. Spoiler'dan kaçınmak için günün çözümünü bitirmeden okumamanızı öneririz. :)
+- Tartışmalar için [Discussions](https://github.com/orgs/Bilgisayar-Kavramlari-Toplulugu/discussions/categories/advent-of-code-2025) kullanabilirsiniz. Her güne ait bir tartışma başlığı açılacaktır. Spoiler'dan kaçınmak için günün çözümünü bitirmeden okumamanızı öneririz. :)
 
 - Her günün çözümleri tek bir klasörde, katkı yapan kişinin adıyla adlandırılmış dosyalar halinde bulunur.
 
