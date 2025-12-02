@@ -1,4 +1,4 @@
-namespace ysfcc_YusufEren_Day_1;
+namespace day1;
 public class StepDirectionData
 {
     public string Direction { get; set; }

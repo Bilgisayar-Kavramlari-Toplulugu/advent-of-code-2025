@@ -1,14 +1,14 @@
-using ysfcc_YusufEren_Day_1;
+using day1;
 using System.Collections.Generic;
 
-namespace ysfcc_YusufEren_Day_1;
-public class D1_Solution
+namespace day1;
+public class YusufEren_D1_Solution
 {
     public void Run()
     {
         //Console.WriteLine("Hello, World!");
 
-        string textFilePath = "ysfcc_YusufEren_Day_1/D1_Input.txt";
+        string textFilePath = "day1/D1_Input.txt";
         var filestream = new System.IO.FileStream(textFilePath,
                                                   System.IO.FileMode.Open,
                                                   System.IO.FileAccess.Read,
@@ -48,9 +48,9 @@ public class D1_Solution
             }
         }
 
-        Console.WriteLine("currentPosition: " + currentPosition);
-        Console.WriteLine("zeroResultCounter: " + zeroResultCounter);
-        Console.WriteLine("zeroHitCounter: " + zeroHitCounter);
+        Console.WriteLine("day1 currentPosition: " + currentPosition);
+        Console.WriteLine("day1 zeroResultCounter: " + zeroResultCounter);
+        Console.WriteLine("day1 zeroHitCounter: " + zeroHitCounter);
     }
 
     ZeroCountData jumpNextNumbers(ref int currentPosition, int steps)
